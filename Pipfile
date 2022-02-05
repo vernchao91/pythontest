@@ -8,6 +8,10 @@ requests = "*"
 flask = "~=1.1"
 python-dotenv = "~=0.13"
 jinja2 = "~=2.11"
+flask-sqlalchemy = "*"
+flask-migrate = "*"
+psycopg2-binary = "*"
+alembic = "*"
 
 [dev-packages]
 
